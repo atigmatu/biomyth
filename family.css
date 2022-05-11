@@ -1,0 +1,54 @@
+h1{
+  color:gray;
+  font-family: "courier new";
+  font-size: 48px;
+}
+
+body{
+  background-color: #2f7037;
+  cursor: grab;
+  font-size: 26px;
+}
+
+p{
+  color: #fcba03;
+  font-family: "courier new";
+}
+
+a{
+  text-decoration: none;
+  color:#fcba03;
+  font-family: "courier new";
+}
+
+a:visited {
+  text-decoration: none;
+  color:#fcba03;
+  font-family: "courier new";
+}
+
+a:hover{
+  color: #2f7037;
+}
+
+#my{
+  position: fixed;
+  left: 50;
+  top: 10;
+  width: 35vw;
+}
+
+#face{
+  position: fixed;
+  left: 450;
+  top: 300;
+  width: 35vw;
+}
+
+#clouds{
+  position: fixed;
+  right:0;
+  bottom:0;
+  min-width: 100%;
+  min-height: 100%;
+}

@@ -1,0 +1,39 @@
+h1{
+  color: #2b2a21;
+  font-family: "courier new";
+  font-size: 40px;
+}
+
+body{
+  background-color: #edebda;
+  background-image: url(green2.jpg);
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  cursor: grab;
+}
+
+p{
+  color: #2b2a21;
+  font-family: "courier new";
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color:#2b2a21;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#2b2a21;
+}
+
+#up{
+  color: #2b2a21;
+  font-family: "courier new";
+  font-size: 20px;
+  position: fixed;
+  left:1060;
+  top: -10;
+}

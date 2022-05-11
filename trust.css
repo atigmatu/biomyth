@@ -1,0 +1,54 @@
+h1{
+  color:gray;
+  font-size: 48px;
+}
+
+body{
+  background-color: #2f7037;
+  cursor: grab;
+  font-size: 50px;
+  font-family: "courier new";
+
+}
+
+p{
+
+}
+
+a{
+  text-decoration: none;
+  color: #fcba03;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#fcba03;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+#feel{
+  position: fixed;
+  left: 450;
+  width: 40vw;
+  top: 250;
+  background-color: #2f7037;
+  color: #fcba03;
+}
+
+#tell{
+  color: #fcba03;
+  width: 18vw;
+  height: 8vw;
+  background-color: #2f7037;
+  opacity: 0;
+  position: fixed;
+  left: 750;
+  top: 250;
+}
+
+#tell:hover{
+  opacity: 1;
+}

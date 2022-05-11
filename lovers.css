@@ -1,0 +1,64 @@
+h1{
+  color:gray;
+  font-size: 48px;
+  font-family: "courier new";
+}
+
+body{
+  background-color: #fcba03;
+  cursor: grab;
+  font-size: 26px;
+  font-family: "courier new";
+}
+
+p{
+  color: #fcba03;
+  font-family: "courier new";
+}
+
+a{
+  text-decoration: none;
+  color:#fcba03;
+  font-family: "courier new";
+}
+
+a:visited {
+  text-decoration: none;
+  color:#fcba03;
+}
+
+#light{
+  position: fixed;
+  right: 10;
+  top:10;
+}
+
+#first{
+  position: fixed;
+  left: 400;
+  top: 3;
+}
+
+#sec{
+  position: fixed;
+  left: 520;
+  top: 150;
+}
+
+#list{
+  position: fixed;
+  right: 250;
+  bottom: 20;
+}
+
+#last{
+  position: fixed;
+  right:320;
+  top:460;
+}
+
+#mid{
+  position: fixed;
+  right: 400;
+  top: 300;
+}

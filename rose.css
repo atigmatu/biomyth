@@ -1,0 +1,47 @@
+h1{
+  color:#fcba03;
+  font-family: "courier new";
+  font-size: 26px;
+}
+
+body{
+  background-color: #edebda;
+  cursor: grab;
+  font-size: 26px;
+  cursor: grabbing;
+  background-image: url(rose.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+p{
+  color: #fcba03;
+  font-family: "courier new";
+  position: fixed;
+  right: 600;
+  bottom: 370;
+}
+
+a{
+  position: fixed;
+  left:440;
+  top: 120;
+  text-decoration: none;
+  color:#fcba03;
+  font-family: "courier new";
+  font-size: 50px;
+  opacity: 0;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#fcba03;
+  font-family: "courier new";
+  opacity: 0;
+}
+
+a:hover{
+  color: #fcba03;
+  opacity: 1;
+}

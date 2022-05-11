@@ -1,5 +1,5 @@
 h1{
-  color: #2b2a21;
+  color: #fcba03;
   font-family: "courier new";
   font-size: 40px;
 }
@@ -7,20 +7,47 @@ h1{
 body{
   background-color: #edebda;
   cursor: grab;
+  background-image: url(mom.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 p{
-  color: #2b2a21;
+  color: #fcba03;
   font-family: "courier new";
   font-size: 20px;
 }
 
 a{
   text-decoration: none;
-  color:#2b2a21;
+  color:#fcba03;
+  font-family: "courier new";
+  font-size: 25px;
 }
 
 a:visited {
   text-decoration: none;
-  color:#2b2a21;
+  color:#fcba03;
+}
+
+#trans{
+  position: fixed;
+  width: 70vw;
+  left: 20;
+}
+
+#one{
+  position: fixed;
+  top: 100;
+  width: 30vw;
+  left: 20;
+
+}
+
+#dis{
+  position: fixed;
+  top: 150;
+  right: 100;
+  width: 25vw;
+
 }

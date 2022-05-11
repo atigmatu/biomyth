@@ -23,9 +23,33 @@ a{
   text-decoration: none;
   color:#fcba03;
   font-family: "courier new";
+  background-color: #fcba03;
 }
 
 a:visited {
   text-decoration: none;
   color:#fcba03;
+}
+
+a:hover{
+  color:#2f7037 ;
+}
+
+#dad{
+  position: fixed;
+  width: 20vw;
+  top: 10;
+}
+
+#issue{
+  position: fixed;
+  width: 20vw;
+  right: 10;
+  top: 150;
+}
+
+#pick{
+  position: fixed;
+  bottom: 150;
+  left: 570;
 }
